@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+
+
 class Square extends React.Component {
   constructor() {
     super();
@@ -49,6 +51,7 @@ class Board extends React.Component {
     );
   }
 }
+
 
 class Game extends React.Component {
   render() {
