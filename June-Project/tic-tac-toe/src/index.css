@@ -45,6 +45,12 @@ ol, ul {
   flex-direction: row;
 }
 
+/*trying to center but it isn't working*/
+/*.game-board {
+  text-align: center;
+}*/
+
 .game-info {
   margin-left: 20px;
+  text-align: center;
 }
